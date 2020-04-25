@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/Douglas-Silverman/cs326-final-tet-copy2/issues"
   },
-  "homepage": "https://github.com/Douglas-Silverman/cs326-final-tet-copy2#readme",
+  "homepage": "https://cs326-final-tet-copy2.herokuapp.com",
   "dependencies": {
     "@types/node": "^13.13.2",
     "express": "^4.17.1",

@@ -6,4 +6,4 @@ import { MyServer } from "./myserver-post";
 const theDatabase = new Database("kashsomani"); // CHANGE THIS
 const theServer = new MyServer(theDatabase);
 
-theServer.listen(process.env.PORT || 5000)
+theServer.listen(process.env.PORT)

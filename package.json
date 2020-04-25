@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Douglas-Silverman/cs326-final-tet-copy2#readme",
   "dependencies": {
+    "@types/node": "^13.13.2",
     "express": "^4.17.1",
     "mongodb": "^3.5.6"
   }

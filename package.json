@@ -23,7 +23,7 @@
   "homepage": "https://cs326-final-tet-copy2.herokuapp.com",
   "dependencies": {
     "@types/node": "^13.13.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "level": "^6.0.1",
     "mongodb": "^3.5.6"
   }
